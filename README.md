@@ -1,1 +1,1 @@
-# Laptop_request_catalog_item_n
+Idea initiation for the laptop request catalog item project
